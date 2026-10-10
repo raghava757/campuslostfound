@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.npm/
+.env
+.env.*
+!.env.example
+server/data/*.json
+server/uploads/*
+!server/uploads/.gitkeep
+/uploads/
